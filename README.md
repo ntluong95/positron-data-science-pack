@@ -11,7 +11,8 @@ This is a recommended list of extensions for [Positron](https://github.com/posit
 
 -  [ntluong95.positron-python-package-manager](https://open-vsx.org/extension/ntluong95/positron-python-package-manager) - Package manager for Python.
 -  [kv9898.positron-r-package-manage](https://open-vsx.org/extension/kv9898/positron-r-package-manager) - Package manager for R.
--   [mcanouil.quarto-wizard](https://open-vsx.org/extension/charliermarsh/ruff) - An extension that helps you manage Quarto projects.
+-  [ntluong95.quarto-wingman](https://open-vsx.org/extension/ntluong95/quarto-wingman) - Provide more Quarto supports
+-  [mcanouil.quarto-wizard](https://open-vsx.org/extension/charliermarsh/ruff) - An extension that helps you manage Quarto projects.
 -  [charliermarsh.ruff](https://open-vsx.org/extension/charliermarsh/ruff) - Ruff is a fast and configurable Python linter with many features.
 -  [marimo-team.vscode-marimo](https://open-vsx.org/extension/marimo-team/vscode-marimo) - A next generation of Jupyter Notebook.
 -  [codeium.codeium](https://open-vsx.org/extension/Codeium/codeium) - Windsurf is the modern coding superpower, a free code acceleration toolkit built on cutting edge AI technology, supporting for 70+ programming languages: Javascript, Python, Typescript, PHP, Go, Java, C, C++, Rust, Ruby, and more.
