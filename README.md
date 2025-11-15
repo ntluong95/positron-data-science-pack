@@ -10,6 +10,7 @@ This is a recommended list of extensions for [Positron](https://github.com/posit
 
 - [ntluong95.positron-python-package-manager](https://open-vsx.org/extension/ntluong95/positron-python-package-manager) - Package manager for Python.
 - [kv9898.positron-r-package-manage](https://open-vsx.org/extension/kv9898/positron-r-package-manager) - Package manager for R.
+- [ntluong95.positron-r-wizard](https://open-vsx.org/extension/ntluong95/positron-r-wizard) - Run R Addins and formarting pipes.
 - [ntluong95.quarto-wingman](https://open-vsx.org/extension/ntluong95/quarto-wingman) - Provide more Quarto supports
 - [mcanouil.quarto-wizard](https://open-vsx.org/extension/charliermarsh/ruff) - An extension that helps you manage Quarto projects.
 - [charliermarsh.ruff](https://open-vsx.org/extension/charliermarsh/ruff) - Ruff is a fast and configurable Python linter with many features.
@@ -30,7 +31,7 @@ This is a recommended list of extensions for [Positron](https://github.com/posit
 - [oderwat.indent-rainbow](https://open-vsx.org/extension/oderwat/indent-rainbow) - Makes indentation easier to read.
 - [tamasfe.even-better-toml](https://open-vsx.org/extension/tamasfe/even-better-toml) - Fully-featured TOML support.
 - [usernamehw.errorlens](https://open-vsx.org/extension/usernamehw/errorlens) - Improve highlighting of errors, warnings and other language diagnostics.
-- [naumovs.color-highlight](https://open-vsx.org/extension/naumovs/color-highlight) - Improve highlighting of errors, warnings and other language diagnostics.
+- [naumovs.color-highlight](https://open-vsx.org/extension/naumovs/color-highlight) - Highlight web colors in your editor.
 
 ### Posit Extras
 
