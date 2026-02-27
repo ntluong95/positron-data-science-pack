@@ -1,6 +1,14 @@
 # Change Log
 
-## [0.0.2]
+## [0.0.5]
+
+- Added `ntluong95.positron-julia`, `posit.databot`, `singularitti.vscode-julia-formatter`, and `KaustubhPaturi.py-scope` to the extension pack
+
+## [0.0.4]
+
+- Added improvements and bug fixes
+
+## [0.0.3]
 
 - Added Positron R Wizard
 - Auto activate extensions

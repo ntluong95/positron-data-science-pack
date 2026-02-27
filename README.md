@@ -8,12 +8,14 @@ This is a recommended list of extensions for [Positron](https://github.com/posit
 
 ### Data Science
 
+- [ntluong95.positron-julia](https://open-vsx.org/extension/ntluong95/positron-julia) - Julia interpreter used in Positron IDE.
 - [ntluong95.positron-python-package-manager](https://open-vsx.org/extension/ntluong95/positron-python-package-manager) - Package manager for Python.
 - [kv9898.positron-r-package-manage](https://open-vsx.org/extension/kv9898/positron-r-package-manager) - Package manager for R.
 - [ntluong95.positron-r-wizard](https://open-vsx.org/extension/ntluong95/positron-r-wizard) - Run R Addins and formarting pipes.
 - [ntluong95.quarto-wingman](https://open-vsx.org/extension/ntluong95/quarto-wingman) - Provide more Quarto supports
 - [mcanouil.quarto-wizard](https://open-vsx.org/extension/charliermarsh/ruff) - An extension that helps you manage Quarto projects.
 - [charliermarsh.ruff](https://open-vsx.org/extension/charliermarsh/ruff) - Ruff is a fast and configurable Python linter with many features.
+- [singularitti.vscode-julia-formatter](https://open-vsx.org/extension/singularitti/vscode-julia-formatter) - A formatter for the Julia language
 - [marimo-team.vscode-marimo](https://open-vsx.org/extension/marimo-team/vscode-marimo) - A next generation of Jupyter Notebook.
 
 ### Project Management
@@ -32,9 +34,11 @@ This is a recommended list of extensions for [Positron](https://github.com/posit
 - [tamasfe.even-better-toml](https://open-vsx.org/extension/tamasfe/even-better-toml) - Fully-featured TOML support.
 - [usernamehw.errorlens](https://open-vsx.org/extension/usernamehw/errorlens) - Improve highlighting of errors, warnings and other language diagnostics.
 - [naumovs.color-highlight](https://open-vsx.org/extension/naumovs/color-highlight) - Highlight web colors in your editor.
+- [KaustubhPaturi.py-scope](https://open-vsx.org/extension/KaustubhPaturi/py-scope) - Enhance Python code readability with dynamic block highlighting.
 
 ### Posit Extras
 
+- [posit.databot](https://open-vsx.org/extension/posit/databot) - An assistant for analyzing and understanding data.
 - [posit.shiny](https://open-vsx.org/extension/posit/shiny) - Develop, preview and debug Shiny applications for R and Python.
 - [posit.publisher](https://open-vsx.org/extension/posit/publisher) - Publish and share your Python and R content on Posit Connect.
 - [quarto.quarto](https://open-vsx.org/extension/quarto/quarto) - Adds extensive support for the [Quarto](https://quarto.org/) scientific and technical publishing system.
