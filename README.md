@@ -8,7 +8,8 @@ This is a recommended list of extensions for [Positron](https://github.com/posit
 
 ### Data Science
 
-- [ntluong95.positron-julia](https://open-vsx.org/extension/ntluong95/positron-julia) - Julia interpreter used in Positron IDE.
+- [ntluong95.positron-julia](https://open-vsx.org/extension/ntluong95/positron-julia) - Julia language support for Positron IDE.
+- [ntluong95.positron-stata](https://open-vsx.org/extension/ntluong95/positron-stata) - Stata language support for Positron IDE.
 - [ntluong95.positron-python-package-manager](https://open-vsx.org/extension/ntluong95/positron-python-package-manager) - Package manager for Python.
 - [kv9898.positron-r-package-manage](https://open-vsx.org/extension/kv9898/positron-r-package-manager) - Package manager for R.
 - [ntluong95.positron-r-wizard](https://open-vsx.org/extension/ntluong95/positron-r-wizard) - Run R Addins and formarting pipes.
@@ -28,6 +29,8 @@ This is a recommended list of extensions for [Positron](https://github.com/posit
 
 ### Themes and helpers
 
+- [Anthropic.claude-code](https://open-vsx.org/extension/Anthropic/claude-code) - AI coding assistant from Anthropic.
+- [openai.chatgpt](https://open-vsx.org/extension/openai/chatgpt) - ChatGPT assistant for coding and development workflows.
 - [pkief.material-icon-theme](https://open-vsx.org/extension/PKief/material-icon-theme) - Material Design Icons
 - [zhuangtongfa.material-theme](https://open-vsx.org/extension/zhuangtongfa/material-theme) - Atom's iconic One Dark theme.
 - [oderwat.indent-rainbow](https://open-vsx.org/extension/oderwat/indent-rainbow) - Makes indentation easier to read.
